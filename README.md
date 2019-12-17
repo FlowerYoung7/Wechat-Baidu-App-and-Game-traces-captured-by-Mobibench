@@ -1,2 +1,2 @@
-# Wechat-Baidu-App-and-Game-traces-captured-by-Mobibench
+# traces-captured-by-Mobibench
 These are the datasets of Wechat, Baidu app and game (the glory of king) that we grabbed with mobibench. WeChat is similar to Facebook and Twitter which is a socail application. We use Baidu App to browse news, search keywords, click recommended news, jump to Tieba link, return to the history of browsing web pages; carry out the daily operations of the Game, interact with the window after opening the application, read the map, start and exit a battle.
